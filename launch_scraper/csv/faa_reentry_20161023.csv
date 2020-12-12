@@ -1,0 +1,12 @@
+site,date,payload,vehicle,license,company
+,"Aug 26, 2016 ",CRS-9,Dragon,RLS 15-006,Space Exploration Technologies Corporation
+,"May 11, 2016 ",CRS-8,Dragon,RLS 15-006,Space Exploration Technologies Corporation
+,"May 21, 2015 ",CRS-6,Dragon,RLS 14-004,Space Exploration Technologies Corporation
+,"Feb 10, 2015 ",CRS-5,Dragon,RLS 14-004,Space Exploration Technologies Corporation
+,"Dec 5, 2014 ",Orion spacecraft,Orion Spacecraft,RLS 14-005,Lockheed Martin Commercial Launch Services
+,"Oct 25, 2014 ",CRS-4,Dragon,NaN,Space Exploration Technologies Corporation
+California,"May 31, 2012 ",COTS C2/C3,Dragon,NaN,Space Exploration Technologies Corporation
+California,"May 18, 2014 ",CRS-3,Dragon,NaN,Space Exploration Technologies Corporation
+California,"Mar 26, 2013 ",CRS-2,Dragon,NaN,Space Exploration Technologies Corporation
+California,"Oct 28, 2012 ",CRS-1,Dragon,NaN,Space Exploration Technologies Corporation
+California,"Dec 8, 2010 ",COTS Demo 1,Dragon (inert),NaN,Space Exploration Technologies Corporation

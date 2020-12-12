@@ -1,0 +1,251 @@
+vehicle,site,date,company,payload
+Antares Configuration 230,VA,20161017,Orbital Sciences Corp.,Cygnus
+Falcon 9 Version 1.2,Florida,20160814,Space Exploration Technologies Corporation,JCSat-16
+Falcon 9 Version 1.2,Florida,20160718,Space Exploration Technologies Corporation,CRS-9
+Falcon 9 Version 1.2,Florida,20160615,Space Exploration Technologies Corporation,ABS-2A/Eutelsat 117W B
+Falcon 9 Version 1.2,Florida,20160527,Space Exploration Technologies Corporation,Thaicom 8
+Falcon 9 Version 1.2,Florida,20160506,Space Exploration Technologies Corporation,JCSat-14
+Falcon 9 Version 1.2,Florida,20160408,Space Exploration Technologies Corporation,Dragon Spacecraft CRS-8
+Atlas V,Florida,20160322,United Launch Alliance,Cygnus Spacecraft OA-6
+Falcon 9 Version 1.2,Florida,20160304,Space Exploration Technologies Corporation,SES-9
+Falcon 9 Version 1.2,Florida,20151221,Space Exploration Technologies Corporation,Orbcomm2
+Atlas V,Florida,20151206,United Launch Alliance,Cygnus Spacecraft OA-4
+Atlas V,Florida,20151002,United Launch Alliance,Morelos-3 Communications Satellite
+Falcon 9 Version 1.1,Florida,20150628,Space Exploration Technologies Corporation,Dragon Spacecraft CRS-7
+Dragon crew,Florida,20150506,Space Exploration Technologies Corporation,No payload; Pad Abort Test
+Falcon 9 Version 1.1,Florida,20150427,Space Exploration Technologies Corporation,TurkmenAlem52E/MonacoSat Communication Satellite
+Falcon 9 Version 1.1,Florida,20150414,Space Exploration Technologies Corporation,Dragon Spacecraft CRS-6
+Falcon 9,Florida,20150301,Space Exploration Technologies Corporation,ABS3/EUTELSAT-1
+Falcon 9 Version 1.1,Florida,20150110,Space Exploration Technologies Corporation,Dragon Spacecraft CRS-5
+Delta IV Heavy,Florida,20141205,United Launch Alliance,Orion Exploration Flight Test 1 (EFT-1) reentry vehicle
+Antares Configuration 130,VA,20141028,Orbital ATK,Cygnus Spacecraft
+Falcon 9 Version 1.1,Florida,20140921,Space Exploration Technologies Corporation,CRS-4 Dragon 6 Capsule
+Falcon 9 Version 1.1,Florida,20140907,Space Exploration Technologies Corporation,AsiaSat-6
+Falcon 9 Version 1.1,Florida,20140805,Space Exploration Technologies Corporation,AsiaSat-8
+Atlas V-401,CA,20140813,Lockheed Martin Commercial Launch Services,WorldView-3 Satellite
+Falcon 9 Version 1.1,Florida,20140714,Space Exploration Technologies Corporation,Orbcomm-1 Second Generation Communications Satellites (#1 through #6)
+Antares 120,VA,20140713,Orbital ATK,Orb-2 Cygnus Spacecraft
+Zenit-3SL,N/A,20140526,"Energia Logistics, Ltd. (ELUS)",Eutelsat 3B
+Falcon 9,Florida,20140418,Space Exploration Technologies Corporation,Dragon
+Antares,VA,20140109,Orbital ATK,ORB-1
+Falcon 9,Florida,20140106,Space Exploration Technologies Corporation,THAICOM 6 MISSION
+Falcon 9,Florida,20131203,Space Exploration Technologies Corporation,SES-8
+Minotaur,VA,20131119,Orbital ATK,ORS3
+Falcon 9,CA,20130929,Space Exploration Technologies Corporation,Cassiope
+Antares,VA,20130918,Orbital ATK,Cygnus
+Antares,VA,20130421,Orbital ATK,Mass Simulator
+Falcon 9,Florida,20130301,Space Exploration Technologies Corporation,Dragon Reentry Capsule
+STIG-B III,New Mexico,20130105,Armadillo Aerospace,Scientific
+Zenit-3SL,N/A,20130201,"Energia Logistics, Ltd. (ELUS)",Intelsat 27
+STIG-B,New Mexico,20121104,Armadillo Aerospace,Scientific
+Zenit-3SL,N/A,20121203,"Energia Logistics, Ltd. (ELUS)",Eutelsat 70B
+Falcon 9,Florida,20121007,Space Exploration Technologies Corporation,Dragon Reentry Capsule
+STIG-B,New Mexico,20121006,Armadillo Aerospace,Scientific
+Zenit-3SL,N/A,20120818,"Energia Logistics, Ltd. (ELUS)",Intelsat 21
+Zenit-3SL,N/A,20120601,"Energia Logistics, Ltd. (ELUS)",Intelsat-19
+Falcon 9,Florida,20120522,Space Exploration Technologies Corporation,Dragon Reentry Capsule
+Zenit-3SL,N/A,20110924,"Energia Logistics, Ltd. (ELUS)",Atlantic Bird 7
+Falcon 9,Florida,20101208,Space Exploration Technologies Corporation,Dragon Reentry Capsule
+Delta II,CA,20101106,Boeing Launch Services,COSMO-Skymed 4
+Falcon 9,Florida,20100604,Space Exploration Technologies Corporation,Dragon Reentry Capsule
+Delta IV,Florida,20100304,Boeing Launch Services,GOES-P
+Atlas V,Florida,20091123,Lockheed Martin Commercial Launch Services,Intelsat 14
+Delta II,CA,20091008,Boeing Launch Services,WorldView-2
+Delta IV,Florida,20090627,The Boeing Company,GOES O
+Zenit-3SL,N/A,20090420,Sea Launch Limited Partnership,SICRAL 1B
+Falcon 1,RMI,20080928,Space Exploration Technologies Corporation,Payload Mass Simulator
+Delta II,CA,20081025,The Boeing Company,COSMO SkyMed 3
+Zenit-3SL,N/A,20080924,Sea Launch Limited Partnership,Galaxy 19
+Zenit-3SL,N/A,20080716,Sea Launch Limited Partnership,EchoStar XI
+Falcon 1,RMI,20080802,Space Exploration Technologies Corporation,"Trailblazer, Presat, Nanosail-D"
+Zenit-3SL,N/A,20080521,Sea Launch Limited Partnership,Galaxy 18
+Pegasus XL,RMI,20080416,Orbital ATK,C/NOFS
+Delta II,CA,20080906,Boeing Launch Services,GeoEye 1
+Zenit-3SL,N/A,20080319,Sea Launch Limited Partnership,DIRECTV 11
+Delta II,CA,20071209,Boeing Launch Services,COSMO-SkyMed-2
+Atlas V-421,Florida,20080414,Lockheed Martin Commercial Launch Services,ICO-G1
+Delta II,CA,20070918,Boeing Launch Services,WorldView 1
+Delta II,CA,20070608,McDonnell Douglas Corporation,COSMO-SkyMed 1
+Zenit-3SL,N/A,20080115,Sea Launch Limited Partnership,Thuraya D3
+Zenit-3SL,N/A,20061030,Sea Launch Limited Partnership,XM Radio 4
+Zenit-3SL,N/A,20070130,Sea Launch Limited Partnership,NSS-8
+Zenit-3SL,N/A,20031001,Sea Launch Limited Partnership,Galaxy 13
+Zenit-3SL,N/A,19990328,Sea Launch Limited Partnership,Mass Simulator
+Zenit-3SL,N/A,19991009,Sea Launch Limited Partnership,DIRECTV 1R
+Zenit-3SL,N/A,20000728,Sea Launch Limited Partnership,PAS 9
+Zenit-3SL,N/A,20001021,Sea Launch Limited Partnership,THURAYA-1
+Zenit-3SL,N/A,20010318,Sea Launch Limited Partnership,XM-2
+Zenit-3SL,N/A,20010508,Sea Launch Limited Partnership,XM-1
+Zenit-3SL,N/A,20020615,Sea Launch Limited Partnership,GALAXY IIIC
+Zenit-3SL,N/A,20000312,Sea Launch Limited Partnership,ICOF-1
+Zenit-3SL,N/A,20030607,Sea Launch Limited Partnership,Thuraya II
+Zenit-3SL,N/A,20030808,Sea Launch Limited Partnership,Echostar IX
+Zenit,N/A,20040111,Sea Launch Limited Partnership,Estrela do Sul
+Zenit,N/A,20040504,Sea Launch Limited Partnership,DTV 7S
+Zenit-3SL,N/A,20060822,Sea Launch Limited Partnership,Koreasat 5
+Falcon 1,RMI,20090714,Space Exploration Technologies Corporation,RazakSat
+Zenit-3SL,N/A,20060411,Sea Launch Limited Partnership,JCSat 9
+Delta IV,Florida,20060524,McDonnell Douglas Corporation,GOES N
+Delta II,Florida,19980424,McDonnell Douglas Corporation,GLOBALSTAR 2
+Pegasus XL,VA,19980923,Orbital ATK,ORBCOMM III
+Athena-2,CA,19990924,Lockheed Martin Commercial Launch Services,IKONOS 2
+Delta II,CA,19980330,McDonnell Douglas Corporation,IRIDIUM 8
+Atlas IIA,Florida,19980316,Lockheed Martin Commercial Launch Services,GBS F8
+Atlas IIAS,Florida,19980228,Lockheed Martin Commercial Launch Services,INTELSAT 806
+Pegasus XL,VA,19980802,Orbital ATK,ORBCOMM II
+Taurus,CA,19980210,Orbital ATK,GEOSAT F/O
+Starfire 1,NM,19900517,Space Services,CONSORT-3
+Delta II,Florida,19980214,McDonnell Douglas Corporation,GLOBALSTAR 1
+Pegasus XL,CA,19980226,Orbital ATK,SNOE
+Delta II,CA,19980218,McDonnell Douglas Corporation,IRIDIUM 7
+Delta II,Florida,19980110,McDonnell Douglas Corporation,SKYNET 4D
+Athena-2,Florida,19980107,Lockheed Martin Commercial Launch Services,Lunar Prospector
+Pegasus XL,VA,19971223,Orbital ATK,ORBCOMM I
+Delta II,CA,19971220,McDonnell Douglas Corporation,IRIDIUM 6
+Atlas IIAS,Florida,19971208,Lockheed Martin Commercial Launch Services,GALAXY 8I
+Delta II,CA,19971109,McDonnell Douglas Corporation,IRIDIUM 5
+Atlas IIAS,Florida,19971005,Lockheed Martin Commercial Launch Services,ECHOSTAR III
+Delta II,Florida,19900413,McDonnell Douglas Corporation,PALAPA B2-R
+Delta II,CA,19970927,McDonnell Douglas Corporation,IRIDIUM 4
+Atlas IIAS,Florida,19970904,Lockheed Martin Commercial Launch Services,GE-3
+LMLV-1,CA,19970822,Lockheed Martin Commercial Launch Services,LEWIS
+Delta II,CA,19970821,McDonnell Douglas Corporation,IRIDIUM 3
+Pegasus XL,CA,19970801,Orbital ATK,SEASTAR
+Atlas IIAS,Florida,19970728,Lockheed Martin Commercial Launch Services,SUPERBIRD-C
+Delta II,CA,19970709,McDonnell Douglas Corporation,IRIDIUM 2
+Delta II,Florida,19970520,McDonnell Douglas Corporation,THOR 2A
+Delta II,CA,19970505,McDonnell Douglas Corporation,IRIDIUM 1
+Pegasus XL,,19970421,Orbital ATK,MINISAT I
+Titan,Florida,19900314,Martin Marrietta,INTELSAT VI
+Atlas IIA,Florida,19970308,Lockheed Martin Commercial Launch Services,TEMPO DBS
+Atlas IIAS,Florida,19970217,Lockheed Martin Commercial Launch Services,JCSAT-4
+Atlas IIA,Florida,19961218,Lockheed Martin Commercial Launch Services,INMARSAT III F3
+Atlas IIA,Florida,19961121,Lockheed Martin Commercial Launch Services,HOT BIRD 2
+Atlas IIA,Florida,19960908,Lockheed Martin Commercial Launch Services,GE-1
+Atlas II,Florida,19960725,Lockheed Martin Commercial Launch Services,EHF F7
+Delta II,Florida,19960524,McDonnell Douglas Corporation,GALAXY IX
+Std Pegasus,CA,19960517,Orbital ATK,MSTI III
+Atlas I,Florida,19960430,Lockheed Martin Commercial Launch Services,SAX
+Delta II,CA,19960424,McDonnell Douglas Corporation,MSX
+Delta II,Florida,19900214,McDonnell Douglas Corporation,LOSAT
+Starfire 1,NM,19960403,EER Systems Corporation,CONQUEST
+Atlas IIA,Florida,19960403,Lockheed Martin Commercial Launch Services,INMARSAT III F1
+Atlas IIAS,Florida,19960201,Lockheed Martin Commercial Launch Services,PALAPA-C1
+Delta II,Florida,19960114,McDonnell Douglas Corporation,KOREASAT-2
+Atlas IIA,Florida,19951215,Lockheed Martin Commercial Launch Services,Galaxy 3R
+Conestoga,VA,19951023,EER Systems Corporation,METEOR
+Atlas II,Florida,19951022,Lockheed Martin Commercial Launch Services,EHF-F6
+Atlas IIAS,Florida,19950829,Lockheed Martin Commercial Launch Services,JCSAT-3
+LLV-1,CA,19950815,Lockheed Martin Commercial Launch Services,GEMSTAR
+Delta II,Florida,19950805,McDonnell Douglas Corporation,KOREASAT-1
+Titan,Florida,19900101,Martin Marrietta,JCSAT/SKYNET
+Atlas II,Florida,19950531,Martin Marrietta,EHF-F5
+Atlas IIA,Florida,19950407,Martin Marrietta,MSAT
+Std Pegasus,CA,19950403,Orbital ATK,ORBCOMM FM1 &amp; 2
+Atlas IIAS,Florida,19950322,Martin Marrietta,INTELSAT-VII-705
+Atlas II,Florida,19950128,Martin Marrietta,EHF-F4
+Atlas IIAS,Florida,19950110,Martin Marrietta,INTELSAT-VII-704
+Black Brant,NM,19941208,EER Systems Corporation,CSAR II
+Atlas IIA,Florida,19941129,Martin Marrietta,ORION
+Atlas IIAS,Florida,19941006,Martin Marrietta,INTELSAT-VII-703
+Atlas IIA,Florida,19940803,Martin Marrietta,HUGHES DIRECT TV
+Starfire 1,NM,19891115,Space Services,CONSORT-2
+Atlas I,Florida,19940624,Martin Marrietta,UHF-3
+Delta II,Florida,19940219,McDonnell Douglas Corporation,GALAXY 1R-2
+Atlas IIAS,Florida,19931216,General Dynamics,TELSTAR 401
+Delta II,Florida,19931208,McDonnell Douglas Corporation,NATO IVB
+Atlas I,Florida,19930903,General Dynamics,UHF-2
+Atlas I,Florida,19930325,General Dynamics,UHF-1
+Starfire 1,NM,19930219,EER Systems Corporation,CONSORT-6
+Pegasus,VA,19930209,Orbital ATK,SCD-1/OXP
+Delta II,Florida,19921012,McDonnell Douglas Corporation,KOPERNIKUS
+Starfire 1,NM,19920910,EER Systems Corporation,CONSORT-5
+SMLV,CA,19891005,American Rocket,SET-1
+Delta II,Florida,19920831,McDonnell Douglas Corporation,SATCOM C4
+Atlas I,Florida,19920822,General Dynamics,GALAXY 1R
+Atlas IIA,Florida,19920610,General Dynamics,INTELSAT K
+Delta II,Florida,19920514,McDonnell Douglas Corporation,PALAPA B-4
+Atlas I,Florida,19920314,General Dynamics,GALAXY 5
+Atlas II,Florida,19911207,General Dynamics,EUTELSAT
+Starfire 1,NM,19911116,EER Systems Corporation,CONSORT-4
+TalosCastor 1,Hawaii,19910912,Orbital ATK,ZEST-2
+TalosCastor 1,Hawaii,19910902,Orbital ATK,ZEST-1
+Atlas V,Florida,20060420,Lockheed Martin Commercial Launch Services,Astra 1KR
+SpaceShipOne,CA,20040929,Scaled Composites,(Flight 16P)
+SpaceShipOne,CA,20041004,Scaled Composites,(Flight 17P)
+Zenit-3SL,N/A,20060215,Sea Launch Limited Partnership,Echostar X
+Prospector,Florida,19910618,Space Data,JOUST-1
+Delta II,Florida,19890827,McDonnell Douglas Corporation,BSB-R1
+Zenit-3SL,N/A,20050623,Sea Launch Limited Partnership,Intelsat Americas 8
+Zenit-3SL,N/A,20050301,Sea Launch Limited Partnership,XM-3
+Zenit-3SL,N/A,20050426,Sea Launch Limited Partnership,Spaceway-1
+Zenit-3SL,N/A,20051108,Sea Launch Limited Partnership,INMARSAT-4F2
+Zenit-3SL,N/A,20060618,Sea Launch Limited Partnership,Galaxy 16
+SpaceShipOne,CA,20040621,Scaled Composites,(Flight 15P)
+Atlas V-521,Florida,20041217,Lockheed Martin Commercial Launch Services,AMC-16
+SpaceShipOne,CA,20040513,Scaled Composites,(Flight 14P)
+Delta II,Florida,19910529,McDonnell Douglas Corporation,AURORA II
+SpaceShipOne,CA,20040408,Scaled Composites,(Flight 13P)
+Atlas IIIB,Florida,20031218,Lockheed Martin Commercial Launch Services,UHF-F11 17
+Atlas V-431,Florida,20050311,Lockheed Martin Commercial Launch Services,INMARSAT-4F1
+Atlas IIAS,Florida,20040520,Lockheed Martin Commercial Launch Services,AMC-11
+Zenit-3SL,N/A,20040629,Sea Launch Limited Partnership,Telstar 18
+Atlas IIIA,Florida,20040313,Lockheed Martin Commercial Launch Services,MBSat
+Taurus,CA,20040517,Orbital ATK,Rocsat-2
+Atlas IIAS,Florida,20040205,Lockheed Martin Commercial Launch Services,AMC-10
+Atlas I,Florida,19910418,General Dynamics,BS-3H
+Atlas IIAS,Florida,20040416,Lockheed Martin Commercial Launch Services,Superbird-6
+Atlas V,Florida,20030717,Lockheed Martin Commercial Launch Services,Rainbow
+Pegasus XL,CA,20030626,Orbital ATK,Orbview 3
+Atlas IIAS,Florida,20020918,Lockheed Martin Commercial Launch Services,HISPASAT-1D
+Delta IV,Florida,20021120,Boeing Launch Services,EUTELSAT W5
+Atlas V,Florida,20020821,Lockheed Martin Commercial Launch Services,HOTBIRD 6
+Atlas IIIB,Florida,20030412,Lockheed Martin Commercial Launch Services,ASIASAT 4
+Delta II,Florida,19910413,McDonnell Douglas Corporation,ASC-2
+Atlas V,Florida,20030513,Lockheed Martin Commercial Launch Services,Hellas Sat 2
+Delta II,CA,20020211,McDonnell Douglas Corporation,IRIDIUM
+Atlas IIIB,Florida,20020221,Lockheed Martin Commercial Launch Services,ECHOSTAR VII
+Delta II,CA,20011018,McDonnell Douglas Corporation,QUICKBIRD 2
+Terrier-Orion,Australia,20020730,Astrotech,HyShot 2
+Terrier-Orion,Australia,20011029,Astrotech,HyShot 1
+Atlas IIAS,Florida,20010619,Lockheed Martin Commercial Launch Services,ICO 2
+Delta II,Florida,19910308,McDonnell Douglas Corporation,INMARSAT 2 FLT 2
+Taurus,CA,20010921,Orbital ATK,ORBVIEW 4
+Delta III,Florida,20000823,TBC,DM-F3 (DEMOSAT)
+Atlas IIAS,Florida,20000714,Lockheed Martin Commercial Launch Services,ECHOSTAR VI
+Delta II,Florida,19910108,McDonnell Douglas Corporation,NATO IVA
+Pegasus,Marshall I,20001009,Orbital ATK,HETE II
+Atlas IIIA,Florida,20000524,Lockheed Martin Commercial Launch Services,EUTELSAT W4
+Atlas IIAS,Florida,20000203,Lockheed Martin Commercial Launch Services,HISPASAT-1C
+Delta II,Florida,20000208,McDonnell Douglas Corporation,GLOBALSTAR 7
+Pegasus XL,CA,20000607,Orbital ATK,TSX-5
+Taurus,CA,19991221,Orbital ATK,KOMPSAT/ACRIMSAT
+Delta II,Florida,19901030,McDonnell Douglas Corporation,INMARSAT 2 FLT 1
+Atlas IIAS,Florida,19990923,Lockheed Martin Commercial Launch Services,ECHOSTAR V
+Delta II,Florida,19990817,McDonnell Douglas Corporation,GLOBALSTAR 6
+Atlas IIA,Florida,19991123,Lockheed Martin Commercial Launch Services,GBS F10
+Delta II,Florida,19990710,McDonnell Douglas Corporation,GLOBALSTAR 4
+Delta II,Florida,19900817,McDonnell Douglas Corporation,BSB-R2
+Pegasus XL,VA,19991204,Orbital ATK,ORBCOMM IV
+Delta II,Florida,19990610,McDonnell Douglas Corporation,GLOBALSTAR 3
+Delta II,Florida,19990725,McDonnell Douglas Corporation,GLOBALSTAR 5
+Athena-2,CA,19990427,Lockheed Martin Commercial Launch Services,IKONOS 1
+Delta II,Florida,19981122,McDonnell Douglas Corporation,BONUM-1
+Atlas I,Florida,19900725,General Dynamics,CRRES
+Delta II,CA,19981106,McDonnell Douglas Corporation,IRIDIUM 11
+Atlas IIA,Florida,19981009,Lockheed Martin Commercial Launch Services,HOTBIRD 5
+Atlas IIAS,Florida,19990412,Lockheed Martin Commercial Launch Services,EUTELSAT W3
+Athena-11,Florida,19990127,Lockheed Martin Commercial Launch Services,ROCSAT
+Delta III,Florida,19990505,McDonnell Douglas Corporation,ORION 3
+Atlas IIA,Florida,19981020,Lockheed Martin Commercial Launch Services,GBS F9
+Titan,Florida,19900623,Martin Marrietta,INTELSAT VI
+Delta II,CA,19980908,McDonnell Douglas Corporation,IRIDIUM 10
+Pegasus XL,CA,19990518,Orbital ATK,TERRIERS
+Atlas IIAS,Florida,19990216,Lockheed Martin Commercial Launch Services,JCSAT-6
+Atlas IIAS,Florida,19980618,Lockheed Martin Commercial Launch Services,INTELSAT 805
+Delta III,Florida,19980827,McDonnell Douglas Corporation,GALAXY 10
+Pegasus XL,Florida,19981023,Orbital ATK,SCD-2
+Delta II,CA,19980517,McDonnell Douglas Corporation,IRIDIUM 9
+Delta II,Florida,19980610,McDonnell Douglas Corporation,THOR III
+Delta 4925,Florida,19900612,McDonnell Douglas Corporation,INSAT-1D
+Starfire,NM,19890329,Space Services,CONSORT-1
